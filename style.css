@@ -1,0 +1,34 @@
+body {
+  font-family: 'Segoe Script', cursive; /* Or another elegant font */
+  background-color: #f8edeb; /* Soft pink background */
+  color: #6a1b4d; /* Deep rose color */
+  text-align: center;
+  margin: 0;
+  padding: 2rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: #b71c1c; /* Dark red */
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+  margin-bottom: 1rem;
+}
+
+p {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+}
+
+p1 {
+  font-size: 1.5rem;
+  color: #c71585; /* Deep pink */
+  font-weight: bold;
+  margin-top: 2rem;
+}
+
+video {
+  border: 1px solid #c71585; 
+  border-radius: 5px;
+  margin-bottom: 2rem;
+}
